@@ -8,7 +8,7 @@
 
 Launcher, traduções, legendas e dublagens em um só aplicativo, diretamente no Meta Quest.
 
-**Feito para a comunidade gamer VR • Sem fins lucrativos**
+**Feito para a comunidade gamer VR • Sem fins lucrativos**`r`n`r`n**Importante:** O FalaVR nunca envia nem disponibiliza APKs ou OBBs dos jogos. Para baixar traduções, legendas e dublagens, é necessário possuir o jogo original.
 
 [⬇️ Baixar FalaVR 1.6](https://github.com/fabyo/falavr/releases/download/v1.6/FalaVR.zip) · [Todas as versões](https://github.com/fabyo/falavr/releases)
 
@@ -77,7 +77,7 @@ A compatibilidade pode variar conforme:
 
 ## ⚖️ Respeito aos criadores
 
-O FalaVR não distribui jogos completos, APKs ou OBBs originais. Os conteúdos de localização são destinados ao uso com uma cópia legítima do jogo.
+O FalaVR não fornece APKs ou OBBs dos jogos. Para baixar e usar os pacotes de tradução, legendas e dublagem, é necessário possuir uma cópia original do jogo.
 
 Os jogos, marcas, personagens e materiais de divulgação pertencem aos seus respectivos titulares. O FalaVR é um projeto independente, sem vínculo oficial com a Meta ou com os estúdios dos jogos apresentados.
 
@@ -104,4 +104,5 @@ Ao abrir uma issue, descreva o problema e, quando possível, inclua os passos pa
 Um projeto independente, sem fins lucrativos, dedicado à comunidade gamer de realidade virtual.
 
 </div>
+
 
