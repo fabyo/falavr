@@ -12,7 +12,7 @@ Launcher, traduções, legendas e dublagens em um só aplicativo, diretamente no
 
 **Importante:** O FalaVR nunca envia nem disponibiliza APKs ou OBBs dos jogos. Para baixar traduções, legendas e dublagens, é necessário possuir o jogo original.
 
-[⬇️ Baixar FalaVR 1.6](https://github.com/fabyo/falavr/releases/download/v1.6/FalaVR.zip) · [Todas as versões](https://github.com/fabyo/falavr/releases)
+[⬇️ Baixar FalaVR 1.8.2](https://github.com/fabyo/falavr/releases/download/v1.8.2/FalaVR.zip) · [Todas as versões](https://github.com/fabyo/falavr/releases)
 
 </div>
 
