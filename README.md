@@ -18,6 +18,12 @@ Launcher, traduções, legendas e dublagens em um só aplicativo, diretamente no
 
 ---
 
+## 🎬 FalaVR em vídeo
+
+[![Assista ao vídeo do FalaVR no YouTube](https://i.ytimg.com/vi/PN3tI9YMM3I/hqdefault.jpg)](https://www.youtube.com/watch?v=PN3tI9YMM3I)
+
+Clique na miniatura para assistir no YouTube.
+
 ## 🎮 Sobre o projeto
 
 O **FalaVR** nasceu para aproximar a comunidade brasileira dos jogos de realidade virtual, tornando suas histórias e experiências mais acessíveis para quem deseja jogar em português.
