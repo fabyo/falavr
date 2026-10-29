@@ -12,7 +12,7 @@ Launcher, traduções, legendas e dublagens em um só aplicativo, diretamente no
 
 **Importante:** O FalaVR nunca envia nem disponibiliza APKs ou OBBs dos jogos. Para baixar traduções, legendas e dublagens, é necessário possuir o jogo original.
 
-[📱 Baixar o APK direto (sem PC)](https://github.com/fabyo/falavr/releases/download/v2.5.11/FalaVR-2.5.11-release.apk) · [⬇️ Baixar FalaVR 2.5.11 (instalador para PC)](https://github.com/fabyo/falavr/releases/download/v2.5.11/FalaVR.zip) · [Todas as versões](https://github.com/fabyo/falavr/releases)
+[📱 Baixar o APK direto (sem PC)](https://github.com/fabyo/falavr/releases/download/v2.5.12/FalaVR-2.5.12-release.apk) · [⬇️ Baixar FalaVR 2.5.12 (instalador para PC)](https://github.com/fabyo/falavr/releases/download/v2.5.12/FalaVR.zip) · [Todas as versões](https://github.com/fabyo/falavr/releases)
 
 Para instalar o APK pelo navegador do Quest, permita "Instalar apps desconhecidos" para o navegador quando o Quest pedir.
 
