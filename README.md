@@ -12,7 +12,7 @@ Launcher, traduções, legendas e dublagens em um só aplicativo, diretamente no
 
 **Importante:** O FalaVR nunca envia nem disponibiliza APKs ou OBBs dos jogos. Para baixar traduções, legendas e dublagens, é necessário possuir o jogo original.
 
-[📱 Baixar o APK direto (sem PC)](https://github.com/fabyo/falavr/releases/download/v2.5.15/FalaVR-2.5.15-release.apk) · [⬇️ Baixar FalaVR 2.5.15 (instalador para PC)](https://github.com/fabyo/falavr/releases/download/v2.5.15/FalaVR.zip) · [Todas as versões](https://github.com/fabyo/falavr/releases)
+[📱 Baixar o APK direto (sem PC)](https://github.com/fabyo/falavr/releases/download/v2.5.16/FalaVR-2.5.16-release.apk) · [⬇️ Baixar FalaVR 2.5.16 (instalador para PC)](https://github.com/fabyo/falavr/releases/download/v2.5.16/FalaVR.zip) · [Todas as versões](https://github.com/fabyo/falavr/releases)
 
 Para instalar o APK pelo navegador do Quest, permita "Instalar apps desconhecidos" para o navegador quando o Quest pedir.
 
@@ -61,6 +61,8 @@ Baixe e instale os pacotes de tradução e dublagem pelo próprio headset, **sem
 ### 🎁 Savegames e extras
 
 No final do Catálogo, encontre savegames completos e outros extras com as capas dos jogos. A aplicação passa por Downloads, com progresso, backup e opção de restaurar o estado anterior. As novidades também aparecem em Notícias. Já há extras para Metro Awakening, World War Z VR, Alien, Angry Birds VR: Isle of Pigs e Until You Fall.
+
+O aviso de novidades foi corrigido para não ser ocultado por atualizações do app. Os avisos sonoros permanecem ativos até o final da reprodução.
 
 ### 🔄 Atualizações
 
